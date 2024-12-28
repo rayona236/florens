@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+header {
+  width: 100%;
+  background: rgb(48, 44, 66);
+}
+header_wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+header_wrapper_item {
+  list-style: none;
+  display: flex;
+}
+header_wrapper_item_wrapper {
+  display: flex;
+}
+header_wrapper_item_suptitle {
+  list-style: none;
+}/*# sourceMappingURL=main.css.map */
